@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 04 02:53:53 GMT 2025","Tue Feb 04 02:53:54 GMT 2025","516","chromium","template.spec.ts","Test Suite Name","","","Unique Test Name",""
+"passed","Tue Feb 04 02:53:29 GMT 2025","Tue Feb 04 02:53:52 GMT 2025","23225","chromium","search.func.spec.ts","Should Search Users By Search Criteria","","","Search User With Unique First Name",""
+"passed","Tue Feb 04 02:53:54 GMT 2025","Tue Feb 04 02:53:56 GMT 2025","1237","firefox","search.func.spec.ts","Should Search Users By Search Criteria","","","Search User With Unique First Name",""
+"passed","Tue Feb 04 02:53:56 GMT 2025","Tue Feb 04 02:53:57 GMT 2025","608","firefox","search.func.spec.ts","Should Search Users By Search Criteria","","","Search Users With Non-Unique First Name",""
+"passed","Tue Feb 04 02:53:57 GMT 2025","Tue Feb 04 02:53:57 GMT 2025","591","firefox","template.spec.ts","Test Suite Name","","","Unique Test Name",""
+"passed","Tue Feb 04 02:53:53 GMT 2025","Tue Feb 04 02:53:53 GMT 2025","573","chromium","search.func.spec.ts","Should Search Users By Search Criteria","","","Search Users With Non-Unique First Name",""
